@@ -16,6 +16,7 @@ TTS: pyttsx3 was our way to go here. This was the part we explored the most poss
 With it´s way to modify the speed of the output, it easily let´s us have a constant flow of speech coming out - 
 instead of pausing in between the processed chunks of audio.
 
-a short showcase and explanation can be seen here: https://www.youtube.com/watch?v=GcQiTYTKC8s&t=33s&ab_channel=alexd
+a short showcase and explanation can be seen here: 
+https://www.youtube.com/watch?v=GcQiTYTKC8s&t=33s&ab_channel=alexd
 
 -----------
