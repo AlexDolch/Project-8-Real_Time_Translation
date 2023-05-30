@@ -19,5 +19,3 @@ instead of pausing in between the processed chunks of audio.
 a short showcase and explanation can be seen here: https://www.youtube.com/watch?v=GcQiTYTKC8s&t=33s&ab_channel=alexd
 
 -----------
-
-While tinkering with the Speechgeneration, we found out about Audio-Deepfakes which led to my next project, a Audiofakedetector which I am working on right now.
